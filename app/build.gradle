@@ -4,8 +4,6 @@ plugins {
 
 android {
     compileSdk 32
-
-    //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
     defaultConfig {
         applicationId "com.sahilssoft.backtoschool"
         minSdk 21
